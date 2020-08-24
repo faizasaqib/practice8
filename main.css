@@ -1,0 +1,16 @@
+.box{
+	width:500px;
+	margin:200px auto;
+	
+}
+.box p{
+	margin:20px auto;
+	padding: 20px ;
+	border-left:10px dashed green;
+	
+}
+.box h1{
+	margin:20px auto;
+	padding: 20px;
+	border-left:80px solid yellow;
+}
