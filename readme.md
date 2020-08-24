@@ -1,0 +1,1 @@
+some basic background style,width,padding and color implementation.
